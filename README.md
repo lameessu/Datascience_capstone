@@ -18,3 +18,6 @@ Sparkify.ipynb - This file contains the analysis and model training done for thi
 # Result
 
 Three classifier algorithms are trained to detect possible churn users: logistic regression, random forest, and gradient-boosted tree regression.
+
+# Acknowledgements
+Data science nanodegree Udacity which served as an guide in building this project
