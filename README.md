@@ -21,3 +21,4 @@ Three classifier algorithms are trained to detect possible churn users: logistic
 
 # Acknowledgements
 Data science nanodegree Udacity which served as an guide in building this project
+[1] https://docs.azuredatabricks.net/_static/notebooks/gbt-regression.html as a guide how to conduct a grid search using spark
